@@ -1,0 +1,7 @@
+C:\Users\Ranieri\source\repos\SingleResposibility\bin\Debug\SingleResposibility.exe.config
+C:\Users\Ranieri\source\repos\SingleResposibility\bin\Debug\SingleResposibility.exe
+C:\Users\Ranieri\source\repos\SingleResposibility\bin\Debug\SingleResposibility.pdb
+C:\Users\Ranieri\source\repos\SingleResposibility\obj\Debug\SingleResposibility.csprojAssemblyReference.cache
+C:\Users\Ranieri\source\repos\SingleResposibility\obj\Debug\SingleResposibility.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\source\repos\SingleResposibility\obj\Debug\SingleResposibility.exe
+C:\Users\Ranieri\source\repos\SingleResposibility\obj\Debug\SingleResposibility.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe.config
+C:\Users\Ranieri\Desktop\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\Ranieri\Desktop\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.pdb
+C:\Users\Ranieri\Desktop\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\Ranieri\Desktop\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.pdb

@@ -1,0 +1,14 @@
+C:\Users\Ranieri\Desktop\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe.config
+C:\Users\Ranieri\Desktop\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe
+C:\Users\Ranieri\Desktop\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.pdb
+C:\Users\Ranieri\Desktop\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.exe
+C:\Users\Ranieri\Desktop\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.pdb
+C:\Users\Ranieri\Desktop\SOLID\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe.config
+C:\Users\Ranieri\Desktop\SOLID\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe
+C:\Users\Ranieri\Desktop\SOLID\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.pdb
+C:\Users\Ranieri\Desktop\SOLID\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\SOLID\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\SOLID\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.exe
+C:\Users\Ranieri\Desktop\SOLID\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.pdb
